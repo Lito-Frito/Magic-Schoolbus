@@ -8,7 +8,7 @@ The wifi would **only be for school purposes** (e.g. no Netlfix or IG). This is 
 Wifi-buses enable schools to move expenses from transport budget to instructional budget. If a school bus serves a Title I school, funding can be used as it serves an instructional service. Additionally, buses can also double as a lunch delivery service for students on free or reduced lunch that don’t have access to food which could further scale costs.
 
 ## Entity Relationship Diagram
-![alt text]([https://github.com/crc8109/Magic-Schoolbus/blob/master/Entity%20Relationship%20Diagram.png](https://user-images.githubusercontent.com/56422761/175348205-570d3296-624b-4ca6-95d9-2c058c6ac0a5.png))
+![alt text](https://user-images.githubusercontent.com/56422761/175348205-570d3296-624b-4ca6-95d9-2c058c6ac0a5.png)
 
 ## Constraints, Estimations, Bottlenecks, & Tradeoffs
 The biggest constraints are the **range of the wifi**, the **power source** for the modem, and the **money** to upgrade the buses.
