@@ -1,5 +1,5 @@
 # Magic School Bus - Remote Learning Proof of Concept
-![Magic School Bus]([https://user-images.githubusercontent.com/56422761/165651711-3a9c08c4-0959-4607-9cea-805b10c4e8f3.png](https://private-user-images.githubusercontent.com/56422761/551163097-a0b94357-80a3-4f0e-9c13-99c568051e98.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEzNTg2MzAsIm5iZiI6MTc3MTM1ODMzMCwicGF0aCI6Ii81NjQyMjc2MS81NTExNjMwOTctYTBiOTQzNTctODBhMy00ZjBlLTljMTMtOTljNTY4MDUxZTk4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE3VDE5NTg1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5YTk0N2QyMmQ2YThlMTFhZGExYzFlNTI3YTQwY2IzYjk1YjVmOGUxYzE1ZDUzZDZhMGYzN2I2YmU4YTJkNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.f482WZ0rPmzXH8X6jZGNDsf_ccqKYwDMpa663W30yr4))
+![Magic School Bus](https://user-images.githubusercontent.com/56422761/165651711-3a9c08c4-0959-4607-9cea-805b10c4e8f3.png)
 
 A proof-of-concept using system design to show how to bring wifi, via busses, to facilitate remote learning for kids during the pandemic. This is modeled after Kajeet's own success in doing something similar. 
 
